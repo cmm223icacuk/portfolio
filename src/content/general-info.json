@@ -1,23 +1,23 @@
 {
-  "firstName": "Etienne",
-  "lastName": "Naude",
+  "firstName": "Christopher",
+  "lastName": "Mathew",
   "heroImage": "thoughtfulImg_qd1fsv.webp",
-  "tagLine": "Software and Design",
+  "tagLine": "Biomedical Engineer",
   "contacts": [
     {
       "type": "Email",
-      "displayText": "eti@naude.dev",
-      "url": "mailto:eti@naude.dev"
+      "displayText": "cmm223@ic.ac.uk",
+      "url": "mailto:cmm223@ic.ac.uk"
     },
     {
       "type": "LinkedIn",
-      "displayText": "linkedin.com/in/etinaude/",
-      "url": "https://www.linkedin.com/in/etinaude/"
+      "displayText": "linkedin.com/in/chris-mathew3/",
+      "url": "https://www.linkedin.com/in/chris-mathew3/"
     },
     {
       "type": "GitHub",
-      "displayText": "github.com/etinaude",
-      "url": "https://github.com/etinaude"
+      "displayText": "github.com/cmm223icacuk",
+      "url": "https://github.com/cmm223icacuk"
     }
   ]
 }
