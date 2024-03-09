@@ -13,6 +13,8 @@ const config = {
 		adapter: adapter(),
 
 		files: { assets: 'src/content' },
+		prerender: {
+			handleMissingId: "ignore"}, // or "fail" or "warn"
 
 		paths: {
 			base: process.env.SVELTE_BASE_PATH ?? '',
