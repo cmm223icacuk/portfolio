@@ -2,13 +2,13 @@
   {
     "title": "Breast Cancer Imaging Project",
     "description": "A model that accepts DICOM or png images from mamograms and classifies the cancer level based of the breast",
-    "image_url": "armImg_hpusqb.webp",
-    "follow_url": "https://github.com/cmm223icacuk/Breast_Cancer_Masking"
+    "image_url": "kevin.webp",
+    "follow_url": "https://github.com/chris-mathew/Breast_Cancer_Masking"
   },
   {
     "title": "Brain Machine Interface Analysis Project",
     "description": "A program that analyses EEG signals from the brain and provides trends.",
     "image_url": "cyber-brain-7633488_1920.webp",
-    "follow_url": "https://github.com/cmm223icacuk/BMI"
+    "follow_url": "https://github.com/chris-mathew/BMI"
   }
 ]
