@@ -1,13 +1,13 @@
 [
   {
     "title": "Breast Cancer Imaging Project",
-    "description": "An AI model that accepts DICOM or PNG images from mamograms and classifies the cancer level based of the breast",
+    "description": "An AI model that accepts DICOM or PNG images from mammograms and classifies the cancer level based of the breast",
     "image_url": "kevin.webp",
     "follow_url": "https://github.com/chris-mathew/Breast_Cancer_Masking"
   },
   {
     "title": "Brain Machine Interface Analysis Project",
-    "description": "A program that analyses spike signals from the brain and prdicts hand movement.",
+    "description": "A program that analyses spike signals from the brain and predicts hand movement.",
     "image_url": "cyber-brain-7633488_1920.webp",
     "follow_url": "https://github.com/chris-mathew/BMI"
   }
