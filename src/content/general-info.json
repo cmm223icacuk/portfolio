@@ -2,12 +2,12 @@
   "firstName": "Christopher",
   "lastName": "Mathew",
   "heroImage": "thoughtfulImg_qd1fsv.webp",
-  "tagLine": "Biomedical Engineer",
+  "tagLine": "MSc Biomedical Engineer (Computational Bioengineering)",
   "contacts": [
     {
       "type": "Email",
-      "displayText": "cmm223@ic.ac.uk",
-      "url": "mailto:cmm223@ic.ac.uk"
+      "displayText": "chris.mathew23@imperial.ac.uk",
+      "url": "mailto:chris.mathew23@imperial.ac.uk"
     },
     {
       "type": "LinkedIn",
