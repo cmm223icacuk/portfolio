@@ -9,23 +9,23 @@
     "title": "Brain Machine Interface Analysis Project",
     "description": "• Directed a group of four to create an algorithm that predicts hand position based on neural activity in MATLAB\n• Achieved an RMSE value of 13, which ranked among the top 5 highest scores in the competition",
     "image_url": "cyber-brain-7633488_1920.webp",
-    "follow_url": "https://github.com/chris-mathew/BMI"
+    "follow_url": "https://github.com/chris-mathew/BMI_Project"
   },
   {
     "title": "Autonomous Cart Pole Balancing System",
     "description": "• Trained a Deep Q-Network to autonomously balance a pole on a cart by applying directional forces, optimizing for maximum stability and longevity of balance which achieved one of the top scores\n• Implemented a 64-neuron two-layer architecture, Adam-W optimizer, and ReLu activation for optimized performance",
-    "image_url": "cyber-brain-7633488_1920.webp",
+    "image_url": "pole.webp",
     "follow_url": "https://github.com/chris-mathew/BMI"
   },
   {
     "title": "Simple Rendering Engine",
     "description": "• Designed an interface using OpenGL to render shapes and objects specified by the user\n• Created a camera using geometric equations to rotate/transform objects and create lines and shapes by linking geometric coordinates",
-    "image_url": "cyber-brain-7633488_1920.webp",
+    "image_url": "10.webp",
     "follow_url": "https://github.com/chris-mathew/Simple-Rendering-Enigne"
   },
   {
     "title": "Maglev based Railway Track-switch",
     "description": "• Designed a railway track-switch based on electromagnetic suspension for higher efficiency and durability\n• Formulated both linear and non-linear mathematical models employing state space modelling to control variables for stability and movement, resulting in a 65% increase in the speed of the track-switch through simulations",
-    "image_url": "cyber-brain-7633488_1920.webp"
+    "image_url": "maglev.webp"
   }
 ]
